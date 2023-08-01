@@ -1,6 +1,7 @@
 # awesome-my-tools
 A repository documenting and celebrating the tools I've used personally and professionally. In the spirit of the other "awesome" github repos.
 
+- Docker
 - Git
 - GitHub
 - Oh My Zsh
