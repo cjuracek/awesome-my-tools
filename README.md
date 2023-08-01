@@ -5,6 +5,7 @@ A repository documenting and celebrating the tools I've used personally and prof
 - Git
 - GitHub
 - Oh My Zsh
+- pass
 - PyCharm
 - Python
     - beautifulsoup
