@@ -9,7 +9,8 @@ A repository documenting and celebrating the tools I've used personally and prof
 - PyCharm
 - Python
     - beautifulsoup
-    - black
+    - Black
+    - Click
     - Flake8
     - huggingface
     - isort
