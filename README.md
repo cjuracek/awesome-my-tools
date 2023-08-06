@@ -24,6 +24,7 @@ A repository documenting and celebrating the tools I've used personally and prof
     - pandas
     - poetry
     - pre-commit
+    - pydantic
     - pyenv
     - pyenv virtualenv
     - pytest
