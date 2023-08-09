@@ -1,12 +1,13 @@
 # awesome-my-tools
 A repository documenting and celebrating the tools I've used personally and professionally. In the spirit of the other "awesome" github repos.
 
+- Anki
 - AWS
     - SageMaker
 - Docker
 - Git
 - GitHub
-- GNU Screen: Terminal multiplexer
+- (GNU) Screen: Terminal multiplexer
 - Oh My Zsh
 - pass
 - PyCharm
