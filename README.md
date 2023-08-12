@@ -35,4 +35,5 @@ A repository documenting and celebrating the tools I've used personally and prof
     - seaborn
     - spacy
     - tqdm
+- R
 - vim
