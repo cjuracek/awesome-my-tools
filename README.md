@@ -35,6 +35,7 @@ A repository documenting and celebrating the tools I've used personally and prof
     - scikit-learn
     - seaborn
     - spacy
+    - SQLAlchemy
     - tqdm
 - R
 - vim
