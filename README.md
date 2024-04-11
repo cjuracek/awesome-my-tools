@@ -15,6 +15,7 @@ A repository documenting and celebrating the tools I've used personally and prof
     - beautifulsoup
     - Black
     - Click
+    - FastAPI
     - Flake8
     - huggingface
     - isort
