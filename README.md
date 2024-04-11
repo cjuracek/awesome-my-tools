@@ -10,6 +10,7 @@ A repository documenting and celebrating the tools I've used personally and prof
 - (GNU) Screen: Terminal multiplexer
 - Oh My Zsh
 - pass
+- PostgreSQL
 - PyCharm
 - Python
     - beautifulsoup
