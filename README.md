@@ -39,6 +39,7 @@ A repository documenting and celebrating the tools I've used personally and prof
     - spacy
     - SQLAlchemy
     - tqdm
+    - [uv](https://github.com/astral-sh/uv): "An extremely fast Python package installer and resolver, written in Rust."
 - R
 - vim
 
