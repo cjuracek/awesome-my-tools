@@ -37,3 +37,7 @@ A repository documenting and celebrating the tools I've used personally and prof
     - tqdm
 - R
 - vim
+
+WEBSITES
+- [explainshell.com](https://explainshell.com/)
+- [Mockaroo](https://www.mockaroo.com/)
