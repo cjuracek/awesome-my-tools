@@ -10,11 +10,13 @@ A repository documenting and celebrating the tools I've used personally and prof
 - (GNU) Screen: Terminal multiplexer
 - Oh My Zsh
 - pass
+- PostgreSQL
 - PyCharm
 - Python
     - beautifulsoup
     - Black
     - Click
+    - FastAPI
     - Flake8
     - huggingface
     - isort
@@ -34,6 +36,7 @@ A repository documenting and celebrating the tools I've used personally and prof
     - scikit-learn
     - seaborn
     - spacy
+    - SQLAlchemy
     - tqdm
 - R
 - vim
