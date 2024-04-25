@@ -33,6 +33,7 @@ A repository documenting and celebrating the tools I've used personally and prof
     - pytest
     - pytorch
     - pytorch-lightning
+    - [ruff](https://docs.astral.sh/ruff/): "An extremely fast Python linter and code formatter, written in Rust."
     - scikit-learn
     - seaborn
     - spacy
