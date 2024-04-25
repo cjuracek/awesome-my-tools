@@ -43,4 +43,4 @@ A repository documenting and celebrating the tools I've used personally and prof
 
 WEBSITES
 - [explainshell.com](https://explainshell.com/)
-- [Mockaroo](https://www.mockaroo.com/)
+- [Mockaroo](https://www.mockaroo.com/): Generate random data in a variety of formats
