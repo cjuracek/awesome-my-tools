@@ -1,5 +1,5 @@
 # awesome-my-tools
-A repository documenting and celebrating the tools I've used personally and professionally. In the spirit of the other "awesome" github repos.
+A repository documenting and celebrating the tools/resources I've used personally and professionally. In the spirit of the other "awesome" github repos.
 
 - Anki
 - AWS
@@ -46,3 +46,6 @@ A repository documenting and celebrating the tools I've used personally and prof
 WEBSITES
 - [explainshell.com](https://explainshell.com/)
 - [Mockaroo](https://www.mockaroo.com/): Generate random data in a variety of formats
+
+RESOURCES
+- [99 Data Viz Rules - & Why It's OK to Break Them](https://www.addtwodigital.com/blog): Great commentary that thinks critically about many "default" visualiation rules and under which circumstances those rules should be bent/broken entirely
